@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "deployment.py",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-10-14T16:59:14Z",
+    "created": 1665766754142,
+    "asset_id": "data_asset.deploymentpy",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/x-script.python"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "deployment.py",
+      "mime": "text/x-script.python",
+      "object_key": "../deployment.py",
+      "object_key_is_read_only": true,
+      "created_at": "2022-10-14T16:59:14Z",
+      "id": "d2d96b0e-d662-4056-aae2-ccd29f4f5a6e",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
